@@ -56,6 +56,6 @@ function generateStones(){
     stone.velocityY=5;
     stone.addImage(stoneImg);
     stoneGroup.add(stone)
-    stone.lifetime=200;
+    stone.lifetime=250;
   }
 }
